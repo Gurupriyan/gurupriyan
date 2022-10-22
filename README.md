@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Two bits on `this`](https://medium.com/@gurupriyan98/two-bits-on-this-2a7bad33e76?source=rss-12fea1afd98f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
