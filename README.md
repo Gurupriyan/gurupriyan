@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Caching in JS and why](https://medium.com/@gurupriyan98/caching-in-js-and-why-5b856db98c36?source=rss-12fea1afd98f------2)
 - [Two bits on `this`](https://medium.com/@gurupriyan98/two-bits-on-this-2a7bad33e76?source=rss-12fea1afd98f------2)
 <!-- BLOG-POST-LIST:END -->
 
