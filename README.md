@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurupriyan Jayakaran</h1>
 <h3 align="center">I'm a Tech Enthusiast passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.</h3>
 
-- 🔭 I’m currently working on [Miracle Phone Call](https://github.com/Miracle-Phone-Call)
+- 🔭 I’m currently working on [Invex2022](https://github.com/Invex2022)
 
 - 🌱 I’m currently learning **TypeScript and Redux**
 
